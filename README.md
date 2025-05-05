@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @remotes-required
+- 👋 Hi, I’m David Melton
 - 👀 I’m interested in ... Everything about computer science.
 - 🌱 I’m currently learning ... Starting with HTML and CSS, then onto java, c, c++, python, and so on
 - 💞️ I’m looking to collaborate on ... not looking to colaborate yet, but i am open to new experiences and learning
